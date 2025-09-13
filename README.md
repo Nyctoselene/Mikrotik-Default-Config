@@ -18,7 +18,7 @@
 
  ![Default Config](Default%20Config.png)
 
- Pada gambar di atas, diperlihatkan beberapa konfigurasi default mikrotik, klik OK. Berikut ini konfigurasi default mikrotik diantaranya:\
+ Pada gambar di atas, diperlihatkan beberapa konfigurasi default mikrotik, klik OK. Berikut ini konfigurasi default mikrotik diantaranya:
 
 # Router Mode:
  ⦁	Port1 / ether1 / WAN port di lindungi oleh firewall (lihat gambar firewall > filter rules, di atas) dan DHCP Client =enabled
@@ -37,7 +37,7 @@
  ⦁	Mode ap-bridge\
  ⦁	Band 2ghz-b/g/n\
  ⦁	Ht-chains 0,1\
- ⦁	Ht extension 20/40mhz-Ce\
+ ⦁	Ht extension 20/40mhz-Ce
 
 ![WLAN](WLAN.png)
  
@@ -63,10 +63,10 @@
 
 Keuntungan dari default configuration mikrotik ini adalah:\
  ⦁	User bisa langsung terkoneksi ke internet dengan memasang kabel WAN ke port1, dan LAN ke port2, 3, dan/atau 4. Untuk wireless juga bisa langsung terkoneksi ke internet, agar aman beri pengamanan pada security profil nya.\
- ⦁	Mikrotik sudah dikonfigurasi firewall nya sehingga aman/secure dari gangguan luar.\
+ ⦁	Mikrotik sudah dikonfigurasi firewall nya sehingga aman/secure dari gangguan luar.
 
 Kesimpulan : 
  ⦁	Mikrotik memudahkan user awam, jika user ingin langsung terkoneksi ke internet tanpa melakukan konfigurasi dari nol.\
- ⦁	Default configuration mikrotik ini juga sangat dianjurkan untuk user awam, karena sudah dikonfigurasi juga firewall nya, sehingga aman/secure dari ganguan luar.\
+ ⦁	Default configuration mikrotik ini juga sangat dianjurkan untuk user awam, karena sudah dikonfigurasi juga firewall nya, sehingga aman/secure dari ganguan luar.
 
 Sekian yang dapat saya sampaikan, mohon maaf apabila ada salah kata atau kekurangan dalam penyampaian. Akhir kata, Wassalam
