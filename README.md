@@ -36,8 +36,14 @@
 # Konfigurasi WLAN 1:
  ⦁	Mode ap-bridge\
  ⦁	Band 2ghz-b/g/n\
- ⦁	Ht-chains 0,1\
- ⦁	Ht extension 20/40mhz-Ce
+ ⦁ Channel Width 20/40mhzXX\
+ ⦁ Frequency auto\
+ ⦁ SSID MikroTik-E2082F\
+ ⦁ Security Profile default\
+ ⦁ WPS Mode push button\
+ ⦁ Frequency Mode regilatory-domain\
+ ⦁ country etsi\
+ ⦁ Installation indoor
 
 ![WLAN](WLAN.png)
  
