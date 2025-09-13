@@ -1,14 +1,14 @@
 # MikroTik Default Configuration
 
- Apa itu default configuration? Default configuration adalah konfigurasi awal yang disediakan saat kita membeli MikroTik. Apa saja yang telah dikonfigurasikan dalam Default Configuration? Berikut adalah penjelasan mengenai apa saja yang telah dikonfigurasikan secara default dalam Default Configuration dari MikroTik.
+ Apa itu default configuration? Default configuration adalah konfigurasi awal yang disediakan saat kita membeli MikroTik Apa saja yang telah dikonfigurasikan dalam Default Configuration? Berikut adalah penjelasan mengenai apa saja yang telah dikonfigurasikan secara default dalam Default Configuration dari MikroTik.
 
  ![Ether1](Ether1.png)
 
  Mikrotik dengan konfigurasi default tidak akan bisa diakses via ether1 karena pada Firewall terdapat Filter Rules yang mendrop semua chain input ke ether1, sehingga MAC Address tidak dapat terdeteksi pada WinBox.
  
- ![Drop](Drop.png)
+![Drop](Drop.png)
 
- ![Unable](Unable.png)
+![Unable](Unable.png)
 
  Selanjutnya gunakan topologi di bawah, akses mikrotik via ether2/ ether3/ ether4
 
@@ -23,13 +23,13 @@
 # Router Mode:
  ⦁	Port1 / ether1 / WAN port di lindungi oleh firewall (lihat gambar firewall > filter rules, di atas) dan DHCP Client = enabled
 
- ![DHCP Client](DHCP%20Client.png)
+![DHCP Client](DHCP%20Client.png)
 
  ⦁	Wireless menjadi bagian dari LAN bridge
  
 ![Bridge](Bridge.png)
 
-⦁	IP Address LAN = 192.168.88.1/24 > ip default mikrotik
+ ⦁	IP Address LAN = 192.168.88.1/24 > ip default mikrotik
  
 ![Address](Address.png)
 
