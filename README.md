@@ -67,11 +67,12 @@
  
  ![WAN](WAN.png)
 
-Keuntungan dari default configuration mikrotik ini adalah:\
+# Keuntungan 
+ Keuntungan dari default configuration mikrotik ini adalah:\
  ⦁	User bisa langsung terkoneksi ke internet dengan memasang kabel WAN ke port1, dan LAN ke port2, 3, dan/atau 4. Untuk wireless juga bisa langsung terkoneksi ke internet. Agar aman, beri pengamanan pada security profil nya.\
  ⦁	MikroTik sudah dikonfigurasi firewall nya sehingga aman/secure dari gangguan luar.
 
-Kesimpulan :\
+# Kesimpulan
  ⦁	MikroTik memudahkan user awam, jika user ingin langsung terkoneksi ke internet tanpa melakukan konfigurasi dari nol.\
  ⦁	Default configuration MikroTik ini juga sangat dianjurkan untuk user awam, karena sudah dikonfigurasi untuk koneksi ke internet juga firewall nya, sehingga aman/secure dari gangguan luar.
 
