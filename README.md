@@ -27,7 +27,7 @@
 
  ⦁	Wireless menjadi bagian dari LAN bridge
  
-![Bridge](Birdge.png)
+![Bridge](Bridge.png)
 
 ⦁	IP Address LAN = 192.168.88.1/24 > ip default mikrotik
  
