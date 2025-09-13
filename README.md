@@ -1,6 +1,6 @@
 # MikroTik Default Configuration
 
- Apa itu default configuration? Default configuration adalah konfigurasi awal yang disediakan saat kita membeli MikroTik. Apa saja yang telah dikonfigurasikan dalam Default Configuration? Berikut adalah penjelasan mengenai apa saja yang telah dikonfigurasikan secara default dalam Default Configuration dari mikrotik.
+ Apa itu default configuration? Default configuration adalah konfigurasi awal yang disediakan saat kita membeli MikroTik. Apa saja yang telah dikonfigurasikan dalam Default Configuration? Berikut adalah penjelasan mengenai apa saja yang telah dikonfigurasikan secara default dalam Default Configuration dari MikroTik.
 
  ![Ether1](Ether1.png)
 
@@ -14,14 +14,14 @@
 
  ![Topo](Topo.png)
 
- Saat menggunakan mikrotik baru pertama kali, akses via WinBox akan menampilkan keterangan konfigurasi default dari pabrik seperti pada gambar berikut.
+ Saat menggunakan MikroTik baru, akses via WinBox akan menampilkan keterangan konfigurasi default dari pabrik seperti pada gambar berikut.
 
  ![Default Config](Default%20Config.png)
 
- Pada gambar di atas, diperlihatkan beberapa konfigurasi default mikrotik, klik OK. Berikut ini konfigurasi default mikrotik diantaranya:
+ Pada gambar di atas, diperlihatkan beberapa konfigurasi default MikroTik, klik OK. Berikut rincian konfigurasi default MikroTik:
 
 # Router Mode:
- ⦁	Port1 / ether1 / WAN port di lindungi oleh firewall (lihat gambar firewall > filter rules, di atas) dan DHCP Client =enabled
+ ⦁	Port1 / ether1 / WAN port di lindungi oleh firewall (lihat gambar firewall > filter rules, di atas) dan DHCP Client = enabled
 
  ![DHCP Client](DHCP%20Client.png)
 
@@ -62,11 +62,11 @@
  ![WAN](WAN.png)
 
 Keuntungan dari default configuration mikrotik ini adalah:\
- ⦁	User bisa langsung terkoneksi ke internet dengan memasang kabel WAN ke port1, dan LAN ke port2, 3, dan/atau 4. Untuk wireless juga bisa langsung terkoneksi ke internet, agar aman beri pengamanan pada security profil nya.\
- ⦁	Mikrotik sudah dikonfigurasi firewall nya sehingga aman/secure dari gangguan luar.
+ ⦁	User bisa langsung terkoneksi ke internet dengan memasang kabel WAN ke port1, dan LAN ke port2, 3, dan/atau 4. Untuk wireless juga bisa langsung terkoneksi ke internet. Agar aman, beri pengamanan pada security profil nya.\
+ ⦁	MikroTik sudah dikonfigurasi firewall nya sehingga aman/secure dari gangguan luar.
 
 Kesimpulan : 
- ⦁	Mikrotik memudahkan user awam, jika user ingin langsung terkoneksi ke internet tanpa melakukan konfigurasi dari nol.\
- ⦁	Default configuration mikrotik ini juga sangat dianjurkan untuk user awam, karena sudah dikonfigurasi juga firewall nya, sehingga aman/secure dari ganguan luar.
+ ⦁	MikroTik memudahkan user awam, jika user ingin langsung terkoneksi ke internet tanpa melakukan konfigurasi dari nol.\
+ ⦁	Default configuration MikroTik ini juga sangat dianjurkan untuk user awam, karena sudah dikonfigurasi untuk koneksi ke internet juga firewall nya, sehingga aman/secure dari gangguan luar.
 
 Sekian yang dapat saya sampaikan, mohon maaf apabila ada salah kata atau kekurangan dalam penyampaian. Akhir kata, Wassalam
